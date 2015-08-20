@@ -1,3 +1,3 @@
 # StartAP
 
-It is an Android sample program for controling hotspot in android phone.
+It is an Android sample program for controlling hotspot in android phone.
